@@ -1,0 +1,7 @@
+{
+  "name": "MeloApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
